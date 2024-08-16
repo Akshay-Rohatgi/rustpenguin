@@ -1,0 +1,9 @@
+[package]
+name = "rustpenguin"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pw_hash = "0.1.1"
+regex = "1.10.6"
+sysinfo = "0.31.2"
