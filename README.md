@@ -1,6 +1,6 @@
 # rustpenguin
 
-rustpenguin is a Rust-based port of the [mimipenguin](https://github.com/huntergregal/mimipenguin) tool, originally developed by Hunter Gregal. Inspired by the popular Windows security tool Mimikatz, Rustpenguin aims to extract plaintext credentials from process memory on Linux systems.
+rustpenguin is a Rust-based port of the [mimipenguin](https://github.com/huntergregal/mimipenguin) tool, originally developed by [Hunter Gregal](https://huntergregal.com/). Inspired by the popular Windows security tool Mimikatz, Rustpenguin aims to extract plaintext credentials from process memory on Linux systems.
 
 ![example](https://akshayrohatgi.com/img/rustpenguin/working.png)
 
