@@ -7,12 +7,9 @@ rustpenguin is a Rust-based port of the [mimipenguin](https://github.com/hunterg
 ## Overview
 **Blazing Fast**: Completes the search for credentials in just a few seconds, significantly faster than the original Python and shell versions.
 
-
 **Memory Dumping**: Extracts readable memory regions from vulnerable processes like Gnome Keyring.
 
-
 **Regex-Based Search**: Utilizes researched regex patterns ("needles") to find potential passwords within the dumped memory.
-
 
 **Password Verification**: Matches potential passwords against hashes in /etc/shadow to confirm valid credentials.
 
