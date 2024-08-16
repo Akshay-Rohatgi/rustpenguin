@@ -2,6 +2,8 @@
 
 rustpenguin is a Rust-based port of the [mimipenguin](https://github.com/huntergregal/mimipenguin) tool, originally developed by Hunter Gregal. Inspired by the popular Windows security tool Mimikatz, Rustpenguin aims to extract plaintext credentials from process memory on Linux systems.
 
+![example](https://akshayrohatgi.com/img/rustpenguin/working.png)
+
 ## Overview
 **Blazing Fast**: Completes the search for credentials in just a few seconds, significantly faster than the original Python and shell versions.
 **Memory Dumping**: Extracts readable memory regions from vulnerable processes like Gnome Keyring.
